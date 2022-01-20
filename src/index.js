@@ -1,5 +1,5 @@
-import { StyleSheet, View, Image } from 'react-native';
 import React, {useState, Fragment } from 'react';
+import { StyleSheet, View, Image, LogBox } from 'react-native';
 import {Router, Scene, Tabs } from 'react-native-router-flux';
 import Login from './Views/Login';
 import Fornecedores from './Views/Fornecedores';
@@ -11,6 +11,7 @@ function App(){
 
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  LogBox.ignoreAllLogs();
 
   renderBackButton = () => {
     return (
@@ -28,6 +29,7 @@ function App(){
               <Scene
                 key="fornecedores"
                 title="Fornecedores"
+                initial
                 component={Fornecedores}
                 navigationBarTitleImage={Marca}
                 navigationBarTitleImageStyle={styles.navLogo}
@@ -38,7 +40,6 @@ function App(){
               />            
             </Tabs>
               <Scene key="login"
-                initial
                 component={Login}
                 hideNavBar
               />

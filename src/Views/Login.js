@@ -13,6 +13,7 @@ import {
 import Logomarca from '../assets/img/logomarca.jpg';
 import { GraphQLQuery, StoreData } from '../util';
 import { Actions } from 'react-native-router-flux';
+import Spinner from 'react-native-loading-spinner-overlay';
 
 const DismissKeyboard = ({ children }) => (
     <TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
@@ -24,10 +25,10 @@ export default function Login() {
 
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
+    const [toggleIndicator, setToggleIndicator] = useState(false);
 
     async function handleLogin(e) {
-        
-        console.log(email, password);
+        setToggleIndicator(true);
 
         await GraphQLQuery(`login(email:"${email}" password:"${password}")`).then((query) => {
         
@@ -48,6 +49,8 @@ export default function Login() {
         }).catch((error) => {
             console.log(error);
         }); 
+
+        setToggleIndicator(false);
     }
 
     return (
@@ -74,6 +77,13 @@ export default function Login() {
                         <Button color={'#2C332C'} title='Novo Usuário' onPress={() => Actions.adicionarusuario()}/>
                     </View>
                     <Text style={styles.version}>Versão: 1.0 </Text>
+                    {toggleIndicator && 
+                        <Spinner 
+                        visible={toggleIndicator}
+                        textContent={'Carregando...'}
+                        textStyle={styles.spinnerTextStyle}
+                        />
+                    }
                 </View>
             </DismissKeyboard >
         </Fragment>
@@ -97,15 +107,17 @@ const styles = StyleSheet.create({
         alignSelf: 'center',
         margin: 12,
         width: '50%',
-        borderRadius: 8,
     },
     logo: {
         marginTop: '20%',
         alignSelf: 'center',
-        width: 500 / 2,
-        height: 500 / 2
+        width: 300 / 2,
+        height: 386 / 2
     },
     version: {
         alignSelf: 'center',
+    },
+    spinnerTextStyle: {
+        color: '#000',
     }
 });
