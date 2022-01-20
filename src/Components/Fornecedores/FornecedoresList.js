@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 import { Actions } from 'react-native-router-flux';
 import Spinner from 'react-native-loading-spinner-overlay';
-import { GraphQLQuery, StoreData, RetrieveData } from '../util';
+import { GraphQLQuery, StoreData, RetrieveData } from '../../util';
 
 function FornecedoresList(){
 
@@ -15,9 +15,7 @@ function FornecedoresList(){
     const [password, setPassword] = useState("");
     const [toggleIndicator, setToggleIndicator] = useState(false);
 
-    useEffect(() => {
-        // Update the document title using the browser API
-        
+    useEffect(() => {        
         async function getToken() {
         
             setToggleIndicator(true);
@@ -60,3 +58,5 @@ const styles = StyleSheet.create({
         flex: 1,
     }
 });
+
+export default FornecedoresList;
