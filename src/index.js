@@ -1,12 +1,16 @@
 import { StyleSheet, View, Image } from 'react-native';
-import React, {Component, Fragment } from 'react';
+import React, {useState, Fragment } from 'react';
 import {Router, Scene, Tabs } from 'react-native-router-flux';
 import Login from './Views/Login';
 import Fornecedores from './Views/Fornecedores';
 import Marca from './assets/img/logo.png';
 import FornecedoresTabBar from './assets/img/icons/fornecedores-tabbar.png';
+import AdicionarUsuario from './Views/AdicionarUsuario';
 
-export default class App extends Component {
+function App(){
+
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
   renderBackButton = () => {
     return (
@@ -16,10 +20,9 @@ export default class App extends Component {
     );
   };
 
-  render() {
-    return (
-      <Fragment>
-        <Router>
+  return (
+    <Fragment>
+      <Router>
           <Scene key="root" headerLayoutPreset={'center'}>
             <Tabs key="tabBar" lazy hideNavBar activeBackgroundColor='#2C332C' activeTintColor='#FFF' inactiveTintColor='#FFF' labelStyle={{fontSize: 12}} tabBarStyle={styles.tabBar} navigationBarStyle={styles.tabBar}>
               <Scene
@@ -39,12 +42,16 @@ export default class App extends Component {
                 component={Login}
                 hideNavBar
               />
+              <Scene key="adicionarusuario"
+                component={AdicionarUsuario}
+                hideNavBar
+              />
           </Scene>
         </Router>
-      </Fragment>
-    )
-  }
+    </Fragment>
+  )
 }
+
 
 const styles = StyleSheet.create({
   navLogo: {
@@ -62,3 +69,5 @@ const styles = StyleSheet.create({
     height: 128 / 3.5
   }
 });
+
+export default App;
