@@ -1,6 +1,6 @@
 import React, {useState, Fragment} from "react";
 import { View, TextInput, Alert, Button, StyleSheet, Image, ScrollView } from "react-native";
-import Logomarca from '../assets/img/logomarca.jpg';
+import Logomarca from '../assets/img/logomarca.png';
 import { GraphQLMutation } from '../util';
 import { Actions } from 'react-native-router-flux';
 import Spinner from 'react-native-loading-spinner-overlay';
@@ -53,51 +53,59 @@ function AdicionarUsuario() {
               onChangeText={setNome}
               value={nome}
               placeholder="Nome Completo"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setDataNascimento}
               value={dataNascimento}
               placeholder="Data de Nascimento"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setCPF}
               value={cpf}
               placeholder="CPF"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setRG}
               value={rg}
               placeholder="RG"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setTelefone}
               value={telefone}
               placeholder="Telefone"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setEndereco}
               value={endereco}
               placeholder="Endereço"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setEmail}
               value={email}
               placeholder="E-mail"
+              placeholderTextColor={"#FFF"}
             />
             <TextInput
               style={styles.input}
               onChangeText={setPassword}
               value={password}
               placeholder="Senha"
+              placeholderTextColor={"#FFF"}
             />
             <View style={styles.button}>
-              <Button color={'#2C332C'} title='CADASTRAR' onPress={() => adicionarUsuario()}/>
+              <Button color={'#fe9c00'} title='CADASTRAR' onPress={() => adicionarUsuario()}/>
             </View>
           </View>
           {toggleIndicator && 
@@ -115,13 +123,14 @@ function AdicionarUsuario() {
 const styles = StyleSheet.create({
   container: {
       flex: 1,
-      backgroundColor: '#FFF'
+      backgroundColor: '#0061ae'
   },
   input: {
-      color: '#2C332C',
+      color: '#FFF',
       width: '80%',
       alignSelf: 'center',
       margin: 5,
+      borderColor: '#FFF',
       borderRadius: 8,
       borderWidth: 0.5,
   },
@@ -136,7 +145,7 @@ const styles = StyleSheet.create({
       height: 386 / 2.5
   },
   spinnerTextStyle: {
-    color: '#000',
+    color: '#FFF',
   }
 });
 

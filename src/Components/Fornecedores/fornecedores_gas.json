@@ -1,0 +1,1883 @@
+[
+	{
+		"razaoSocial": "GOLD GÁS COMÉRCIO DE GLP LTDA",
+		"cnpj": "33.935.781/0001-65",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 9, Rua 150, Lote 02, Areal",
+		"descricao": "GOLD GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LIMA GÁS LTDA",
+		"cnpj": "38.068.800/0001-17",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 5, Praça Águas Claras 2, Lote 09, Areal",
+		"descricao": "LIMA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OURO GÁS LTDA",
+		"cnpj": "23.934.139/0001-08",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QS 5, Rua 311, Lote 11, Areal",
+		"descricao": "OURO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CENTRAL COMÉRCIO VAREJISTA DE GÁS",
+		"cnpj": "32.631.904/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 3 10 – Bairro Veredas",
+		"descricao": "CENTRAL GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "L D S COMÉRCIO DE GÁS LTDA",
+		"cnpj": "39.886.174/0001-39",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 38, Conjunto A, Lote 16 – Bairro Vila São Jose – CEP: 72.738-001",
+		"descricao": "L D S GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LUANA MBR DE SOUZA COMÉRCIO DE BEBIDAS EIRELI",
+		"cnpj": "22.073.880/0001-69",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Bloco Centro de Comercio e Diversões, Bloco S, Loja 06, Setor Norte",
+		"descricao": "LUANA COMÉRCIO",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MSL COMERCIO DE GAS EIRELI",
+		"cnpj": "37.241.612/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 4, número 15, Veredas, Brazlândia, CEP: 72.725-400",
+		"descricao": "MSL GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OLIVEIRA TRANSPORTES E TURISMO LTDA ME",
+		"cnpj": "07.525.475/0001-40",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 37, Lote A, Loja 01, SN, CEP nº 72.737-000",
+		"descricao": "OLIVEIRA TRANSPORTES E TURISMO",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A E A COMERCIAL DE ALIMENTOS LTDA – EPP",
+		"cnpj": "18.667.257/0001-67",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 37, Conjunto I, Lote 02, Vila São José, Brazlândia – DF, CEP nº 72.737-009",
+		"descricao": "A E A COMERCIAL DE ALIMENTOS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "AMANDA PEREIRA XAVIER",
+		"cnpj": "31.447.916/0001-18",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara GLEBA 04, Incra 09, Nº492-03, Núcleo Rural Alexandre Gusmão, Ceilândia – DF",
+		"descricao": "AMANDA PEREIRA XAVIER",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "BOMGÁS COMÉRCIO DE GÁS LIQUEFEITO DE PETRÓLEO LTDA",
+		"cnpj": "07.433.481/0001-78",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNP 23 CJ A LTS 01 e 37, Ceilândia – DF",
+		"descricao": "BOMGÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CARMO & MAECAVA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "31.743.888/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 11 Módulo 11, Lote 01, Condomínio Prive Lucena Roriz, Ceilândia – DF",
+		"descricao": "CARMO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CAVALCANTE COMÉRCIO DE GÁS LTDA",
+		"cnpj": "22.456.585/0001-91",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03, Lote 86, Setor Industrial I – CEP: 72.265-030, Ceilândia – DF",
+		"descricao": "CAVALCANTE COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DISK GÁS DA ANA EIRELI-ME",
+		"cnpj": "27.189.412/0001-78",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNM 7, Conjunto J, Lote 48, Ceilândia – DF",
+		"descricao": "DISK GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DEPÓSITO DE GÁS ESPIRITO SANTO EIRELI ME",
+		"cnpj": "22.965.918/0001-08",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNM 6, Conjunto A, Lote 45, Ceilândia – DF",
+		"descricao": "DEPÓSITO DE GÁS ESPIRITO SANTO",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DERCÍLIO FERREIRA COMÉRCIO DE GÁS E ÁGUA MINERAL – EIRELI",
+		"cnpj": "37.873.448/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE, Quadra 4, Conjunto E SN, Lote 18, Área de Desenvolvimento Econômico – CEP: 72.237-450, Ceilândia – DF",
+		"descricao": "DERCÍLIO FERREIRA COMÉRCIO DE GÁS E ÁGUA MINERAL",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DISTRIBUIDORA E TRANSPORTADORA DE GÁS SOUSA & CAMPOS LTDA – ME",
+		"cnpj": "10.453.929/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNO 03, CONJ A, LOTE 3, Ceilândia – DF",
+		"descricao": "DISTRIBUIDORA E TRANSPORTADORA DE GÁS SOUSA & CAMPOS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "D P A COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "27.189.412/0001-78",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 7, Conjunto B, Lote 07, Ceilândia – DF",
+		"descricao": "D P A COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "D’U SALES GÁS EIRELI ME",
+		"cnpj": "28.840.877/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 19 Conjunto F, Lote 03 – CEP: 72.225-196, Ceilândia – DF",
+		"descricao": "D’U SALES GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ERALDO GAMBARRA DE MEDEIROS",
+		"cnpj": "01.866.927/0001-71",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Qnn 36, Bloco 01, Ceilândia – DF, CEP: 72220-360, Ceilândia – DF",
+		"descricao": "ERALDO GAMBARRA DE MEDEIROS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "F A FERNANDES COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "18.751.318/0001-70",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNP 12, Conjunto B, Lote 24, Ceilândia – DF",
+		"descricao": "F A FERNANDES COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GAS BRASIL COMÉRCIO DE GASES LTDA-ME",
+		"cnpj": "23.934.155/0001-09",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNM 23, Conjunto A, Lote 46 – CEP: 72.215-231, Ceilândia – DF",
+		"descricao": "GAS BRASIL COMÉRCIO DE GASES",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GAS DIA A DIA CEILÂNDIA NORTE LTDA",
+		"cnpj": "28.329.616/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNO 2, Conjunto E, SN, Lote 02, Ceilândia – DF",
+		"descricao": "GAS DIA A DIA CEILÂNDIA NORTE",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GG COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "08.979.644/0001-85",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 06, Conjunto J, Lote 56, Ceilândia – DF",
+		"descricao": "GG COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J P COMERCIO DE GAS LTDA",
+		"cnpj": "37.569.744/0001-31",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 21 Conjunto O Lote 27 – Bairro Ceilândia Norte, CEP nº 72.225-225, Ceilândia – DF",
+		"descricao": "J P COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "KJ COMÉRCIO DE GÁS LTDA- ME",
+		"cnpj": "12.494.333/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 02, Conjunto A01, Lote 24 – CEP: 72215-000, Ceilândia – DF",
+		"descricao": "KJ COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MC COMÉRCIO DE GÁS LTDA",
+		"cnpj": "06.351.393/0001-64",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra EQNP 28/32 A/E G – CEP: 72235-567, Ceilândia – DF",
+		"descricao": "MC COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MEDEIROS COMÉRCIO DE GPL LTDA ME",
+		"cnpj": "18.073.583/0001-46",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNO 10, Área Especial R, CEP: 72.255-018, Ceilândia – DF",
+		"descricao": "MEDEIROS COMÉRCIO DE GPL",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MINEIRO GÁS EIRELI-ME",
+		"cnpj": "28.506.816/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNO 17, Conjunto 1, Lote 42, Ceilândia – DF",
+		"descricao": "MINEIRO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MSA COMÉRCIO DE GÁS LIQUEFEITO DE PETRÓLEO E BEBIDAS LTDA",
+		"cnpj": "16.841.535/0001-25",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNO 17, Conjunto C, Lote 22, Ceilândia – DF",
+		"descricao": "MSA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "NONATO E FILHOS COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "11.964.948/0001-83",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 3, Conjunto C, Lote 03, Ceilândia – DF",
+		"descricao": "NONATO E FILHOS COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "PINHEIRO COMERCIO VAREJISTA DE GAS EIRELI ME",
+		"cnpj": "15.595.048/0001-67",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Residencial dos Pinheiros, Quadra 15, Lote 03, Ceilândia – DF",
+		"descricao": "PINHEIRO COMERCIO VAREJISTA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "27.644.311/0001-40",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra EQNO 5/7 CL, Bloco F, Lote 05, Ceilândia – DF",
+		"descricao": "SA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SOL GÁS COMÉRCIO DE GLP EIRELI",
+		"cnpj": "08.903.680/0001-65",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03, Conjunto A, Lote 11 – ADE – CEP: 72237-310, Ceilândia – DF",
+		"descricao": "SOL GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SUPER VIP COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "08.809.316/0001-30",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNN 23, Conjunto O, Lote 17, Ceilândia – DF",
+		"descricao": "SUPER VIP COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "UNIDAS DISTRIBUIDORA DE GÁS LTDA ME",
+		"cnpj": "04.845.317/0001-80",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNN 17, Conjunto H, Lote 62, Ceilândia – DF",
+		"descricao": "UNIDAS DISTRIBUIDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GJ COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "15.330.626/0001-33",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Conjunto 04, lote 4, CEP: 71300-000, Vila Estrutural – DF",
+		"descricao": "GJ COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GV MARINHO COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "10.384.566/0001-18",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "SCSV, Quadra 1 Conjunto 2, Lote 17, Setor Leste, Vila Estrutural – DF",
+		"descricao": "GV MARINHO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JR COMÉRCIO VAREJISTA DE GÁS LTDA",
+		"cnpj": "35.381.459/0001-67",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Setor Especial Quadra 1 Conjunto 04 Lote 23, Setor Leste, CEP: 71261-010, Vila Estrutural – DF",
+		"descricao": "JR COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ROMÁRIO DA SILVA E SILVA COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "10.996.081/0001-85",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Vila VE, Setor de Comercio e Serviço da Vila Estrutural, Setor de Oficinas, Conjunto 03, Lote 16, Vila Estrutural – DF",
+		"descricao": "ROMÁRIO DA SILVA E SILVA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A.S GÁS DEPÓSITO E TRANSPORTE DE GÁS LTDA EPP",
+		"cnpj": "04.145.990/0001-07",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 04, Lote 340, Setor Leste Industrial, Gama – DF",
+		"descricao": "A.S GÁS DEPÓSITO E TRANSPORTE DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J H B CLEMENTE GAS EPP",
+		"cnpj": "05.038.555/0001-46",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 06, Lote 01, Conjunto F, Bairro Setor Sul Res, Gama – DF",
+		"descricao": "J H B CLEMENTE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FARAGO COMÉRCIO DE GÁS E ÁGUA LTDA",
+		"cnpj": "31.470.416/0001-05",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QE 38, Área Especial 08, Lote E, Loja 03, Guará II",
+		"descricao": "FARAGO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A A R PIRES DISTRIBUIDORA DE GAS LIQUEFEITO E AGUA MINERAL EIRELI",
+		"cnpj": "27.101.470/0001-06",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 378, Conjunto A, nº 49, Bairro Del Lago II, Itapoã – DF",
+		"descricao": "A A R PIRES DISTRIBUIDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "AF COMERCIO DE GAS LTDA",
+		"cnpj": "02.763.458/0001-28",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QL 01, Conjunto H, Lote 03, Itapoã – DF",
+		"descricao": "AF COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "BARBOSA E CARVALHO COMERCIO DE GAS LTDA",
+		"cnpj": "11.037.313/0001-30",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 02, Conjunto O, Lote 36, Bairro Fazendinha, Itapoã – DF",
+		"descricao": "BARBOSA E CARVALHO COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "F & N COMERCIO VAREJISTA DE GAS LTDA",
+		"cnpj": "08.258.018/0001-08",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 22, LT 01 – Bairro Del Lago I, Itapoã – DF",
+		"descricao": "F & N COMERCIO VAREJISTA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "G O F GAS E AGUA LTDA ME",
+		"cnpj": "17.976.687/0001-06",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03, conjunto H, lote 125, Bairro Fazendinha, Itapoã – DF",
+		"descricao": "G O F GAS E AGUA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "G S GAS LTDA-ME",
+		"cnpj": "08.907.478/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03, Conjunto A, Lote 29, Bairro Fazendinha, CEP nº 71.570-000, Itapoã – DF",
+		"descricao": "G S GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "IF PALMA REVENDEDORA DE GAS ME",
+		"cnpj": "05.415.624/0001-93",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 2, Conjunto F, Lote 20, Itapoã – DF",
+		"descricao": "IF PALMA REVENDEDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JERONIMO LUIZ DA SILVA COMERCIO DE GAS EIRELI",
+		"cnpj": "33.270.664/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1, Conjunto B 03, Bairro Fazendinha, Itapoã – DF",
+		"descricao": "JERONIMO LUIZ DA SILVA COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MAX REVENDA DE GAS LTDA",
+		"cnpj": "27.548.438/0001-65",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QL 1, Conjunto C, Lote 1-B, Bairro Itapoã II, Itapoã – DF",
+		"descricao": "MAX REVENDA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "P J DA SILVA REVENDEDORA DE GAS-ME",
+		"cnpj": "27.218.633/0001-27",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 2, Conjunto S, Lote 35, Bairro Fazendinha, Itapoã – DF",
+		"descricao": "P J DA SILVA REVENDEDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "RCA DISTRIBUIDORA DE GAS LTDA",
+		"cnpj": "42.109.394/0001-60",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 01, Conjunto B, Lote 14, Bairro Fazendinha, Itapoã – DF",
+		"descricao": "RCA DISTRIBUIDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "REAL GAS RIBEIRO EIRELI – ME",
+		"cnpj": "29.333.469/0001-24",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 302, Lote 03 – Bairro Del Lago II, Itapoã – DF",
+		"descricao": "REAL GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ROGACY JOSE DA SILVA FILHO ME",
+		"cnpj": "20.907.079/0001-46",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QL 01, Conjunto G, Lote 02-A, Itapoã – DF",
+		"descricao": "ROGACY JOSE DA SILVA FILHO ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "VALDECI B. DA MOTA GAS EIRELI ME",
+		"cnpj": "07.152.364/0001-36",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 02, Conjunto “O”, Lote 15, Itapoã – DF",
+		"descricao": "VALDECI B. DA MOTA GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ZEZINHO DO GAS COMERCIO VAREJISTA DE GLP EIRELI",
+		"cnpj": "39.359.158/0001-98",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1, Lote 13A, Bairro Del Lago I, Itapoã – DF",
+		"descricao": "ZEZINHO DO GAS COMERCIO VAREJISTA DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CARIOCA COMÉRCIO VAREJISTA DE GÁS EIRELI",
+		"cnpj": "31.379.875/0001-70",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "RUA 1, LOTE 14 – BAIRRO METROPOLITANA, CEP: 71730-110, Núcleo Bandeirante – DF",
+		"descricao": "CARIOCA COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MBS COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "32.109.310/0001-35",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 06, Lote 02, Loja 01, Metropolitana, CEP: 71.730-160, Núcleo Bandeirante – DF",
+		"descricao": "MBS COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CL DISTRIBUIDORA DE GAS LTDA",
+		"cnpj": "07.059.338/0001-68",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03, Conjunto A, Lote 66, Condomínio Fazendinha, Paranoá/DF, CEP nº 71.590-000, Paranoá – DF",
+		"descricao": "CL DISTRIBUIDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DEPÓSITO DE GÁS MULTIGAS EIRELI",
+		"cnpj": "39.709.396/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 29, Conjunto P, Lote 48, Paranoá – DF",
+		"descricao": "DEPÓSITO DE GÁS MULTIGAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "IM COMERCIAL ISAC GÁS LTDA",
+		"cnpj": "13.036.101/0001-64",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Fazenda Santo Antônio, DF 270, KM 1.4, Chácara 05, Potiga Rural Leste, Sala Café Sem Troco, Paranoá – DF",
+		"descricao": "IM COMERCIAL ISAC GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LILIAN CRISTINA BARBOSA DE FARIA",
+		"cnpj": "03.024.995/0001-19",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 10, Conjunto 4, Lote 07, Lojas 01 e 02 – CEP: 71.571-033, Paranoá – DF",
+		"descricao": "LILIAN CRISTINA BARBOSA DE FARIA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "RAIMUNDO CESAR UCHOA ME",
+		"cnpj": "06.293.663/0001-28",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 32 Conjunto N Lote 19, Paranoá, Brasília – DF, CEP 71573-216, Paranoá – DF",
+		"descricao": "RAIMUNDO CESAR UCHOA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "U V P DA SILVA ABREU COMÉRCIO DE GÁS GLP",
+		"cnpj": "29.458.522/0001-13",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia DF-130 SN, Conjunto C, Lote 7 9, CEP: 71586-400, Paranoá – DF",
+		"descricao": "U V P DA SILVA ABREU COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "VF GÁS LTDA",
+		"cnpj": "03.495.618/0001-68",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Av. Transversal, Quadra 23, Conj. A, Lote 1, Loja 1, Paranoá – DF",
+		"descricao": "VF GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "AE COMÉRCIO DE GÁS LTDA",
+		"cnpj": "40.750.698/0001-87",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 14, Setor Habitacional Aprodarmas, Condomínio Quintas do Amanhecer II, Lote 18B, Planaltina – DF",
+		"descricao": "AE COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "APARECIDA LUCAS DA SILVA-ME",
+		"cnpj": "13.445.160/0001-96",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 06 Lote 01C, Loja 01, Rajadinha II, CEP 73.370-100, Planaltina – DF",
+		"descricao": "APARECIDA LUCAS DA SILVA-ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "C. T. ALVES DEPÓSITO DE GÁS LTDA",
+		"cnpj": "08.603.473/0001-95",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QD 24, Cj I, Lt 05, SRL, CEP 73.358-305, Planaltina – DF",
+		"descricao": "C. T. ALVES DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DEPOSITO DE GAS RIQUELME LTDA",
+		"cnpj": "34.386.788/0001-38",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia DF-205, Km 49, Lote 293/294, Núcleo Rural, Jardim Morumbi, CEP nº 73307-990, Planaltina – DF",
+		"descricao": "DEPOSITO DE GAS RIQUELME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DISTRIBUIDORA CHAMAGAS LTDA ME",
+		"cnpj": "11.395.739/0001-66",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Estancia Mestre Darmas 03, Mod. 08, Lt. 11, Lj. 01, CEP: 73380-300, Planaltina – DF",
+		"descricao": "DISTRIBUIDORA CHAMAGAS LTDA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DISTRIDUIDORA DE GÁS LIQUIFEITO S.O.S LTDA",
+		"cnpj": "09.093.189/0001-89",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 5, Conjunto 5L, SRNA, Lote 02, Jardim Roriz, CEP: 73340-510, Planaltina – DF",
+		"descricao": "DISTRIDUIDORA DE GÁS LIQUIFEITO S.O.S",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "E. R. DOS SANTOS ME",
+		"cnpj": "08.241.247/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QUADRA 03, CONJUNTO E, LOTE 44 – ARAPOANGA – CEP: 73.301-970, Planaltina – DF",
+		"descricao": "E. R. DOS SANTOS ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ELOI INACIO DE SOUZA",
+		"cnpj": "08.241.247/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QUADRA 03, CONJUNTO E, LOTE 44 – ARAPOANGA – CEP: 73.301-970, Planaltina – DF",
+		"descricao": "ELOI INACIO DE SOUZA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "EVA ROCHA LAURO DUARTE",
+		"cnpj": "05.739.791/0001-90",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CR 79, Casa 123, Vale do Amanhecer, Planaltina – DF",
+		"descricao": "EVA ROCHA LAURO DUARTE",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FERREIRA & COSTA COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "04.801.909/0001-08",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1 Conjunto A Lote 18 – Bairro Arapoanga, CEP nº 73.369-150, Planaltina – DF",
+		"descricao": "FERREIRA & COSTA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FRANCISCO IRINEU DO NASCIMENTO ME",
+		"cnpj": "02.041.535/0001-36",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 03,  Conjunto A, Lote 20, Setor Residencial Leste, CEP: 73330-500, Planaltina – DF",
+		"descricao": "FRANCISCO IRINEU DO NASCIMENTO ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FRANCISCO ONOFRE DE OLIVEIRA ME",
+		"cnpj": "10.415.856/0001-81",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Estancia Mestre D’Armas IV, Modulo 11, Lote 16, Loja 01, Planaltina – DF",
+		"descricao": "FRANCISCO ONOFRE DE OLIVEIRA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GASMYT REVENDEDORA DE GÁS EIRELI",
+		"cnpj": "13.099.623/0001-05",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 6-A, Conjunto B, Lote 23, ST Habitacional Arapoanga, Planaltina – DF",
+		"descricao": "GASMYT REVENDEDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ILDETE DA SILVA SOUSA ME",
+		"cnpj": "11.878.860/0001-49",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Nova Planaltina, Qd 03, Rua D, lote 03, Loja 01, CEP: 73401-027, Planaltina – DF",
+		"descricao": "ILDETE DA SILVA SOUSA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JOSIANO SOUZA ALVES ME",
+		"cnpj": "07.449.517/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 13, Conjunto M, Lote 78, Condomínio Mansões Arapoanga, CEP: 73369-118, Planaltina – DF",
+		"descricao": "JOSIANO SOUZA ALVES ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LM COMÉRCIO DE GÁS E ÁGUA MINERAL",
+		"cnpj": "33.806.031/0001-93",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 19, conjunto I, Lote 2D, Bairro Araponga, Planaltina – DF",
+		"descricao": "LM COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "M S DEPÓSITO DE GÁS LTDA ME",
+		"cnpj": "07.117.326/0001-42",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Estancia Mestre D’armas III, Modulo H, Lote 1-A – CEP: 73401-721, Planaltina – DF",
+		"descricao": "M S DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MELHOR COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "20.907.079/0001-46",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Modulo F, Lote 15, Estância Mestre D’Armas I, Planaltina – DF",
+		"descricao": "MELHOR COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MESQUITA COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "07.802.356/0001-98",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Módulo H, Lote 01, Setor de Mansões Mestre Darmas 01, Planaltina – DF",
+		"descricao": "MESQUITA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "NFM COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "41.414.433/0001-70",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia BR-020, KM 16, Cond. Vivendas Nova Petrópolis, Quadra 1, Módulo A, Lote 12, Planaltina – DF",
+		"descricao": "NFM COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OURO GÁS ARAPOANGA COMÉRCIO DE GLP LTDA",
+		"cnpj": "40.274.964/0001-42",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 01D, Conjunto B, Lote 01, Arapoanga, Planaltina – DF",
+		"descricao": "OURO GÁS ARAPOANGA COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ROCHA GÁS E CONVENIÊNCIA LTDA",
+		"cnpj": "34.069.067/0001-02",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 24, Conjunto D, Lote 01, Bairro Setor Residencial Leste, Planaltina – DF",
+		"descricao": "ROCHA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "RRL DEPÓSITO DE GÁS BRASIL LTDA",
+		"cnpj": "32.385.610/0001-47",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1 Conjunto I Lote 39B – CEP 73.368-620, Planaltina – DF",
+		"descricao": "RRL DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SANTOS COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "34.749.417/0001-73",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 7B1, Conjunto E1, Loja 01, Bairro Arapoanga, Planaltina – DF",
+		"descricao": "SANTOS COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SENINHA COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "41.331.969/0001-22",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Módulo 11, Lote 26, Loja 01, Estância Mestre D’armas V – CEP 73.402-033, Planaltina – DF",
+		"descricao": "SENINHA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SUPERMERCADO TAQUARA LTDA ME",
+		"cnpj": "22.575.772/0001-94",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 02, Lote 22/23, Bairro Taquara, Planaltina – DF",
+		"descricao": "SUPERMERCADO TAQUARA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TIM COMERCIAL DE GÁS LIQUIFEITO EIRELI",
+		"cnpj": "34.286.382/0001-83",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 19, Lote 06, Bairro Nossa Senhora de Fatima, Planaltina – DF",
+		"descricao": "TIM COMERCIAL DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TRADICIONAL COMERCIO DE GAS EIRELI",
+		"cnpj": "08.215.225/0001-77",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Marechal Deodoro, Quadra 21, Lote 03, Bairro ST Norte, Planaltina – DF, CEP nº 73.330-022, Planaltina – DF",
+		"descricao": "TRADICIONAL COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DAMIÃO JOSÉ ALECRIM ME",
+		"cnpj": "10.517.168/0001-22",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida JK, Lote 25, Acampamento Rabelo, Vila Planalto – DF, Plano Piloto",
+		"descricao": "DAMIÃO JOSÉ ALECRIM ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "BATOMARCO NOBRE DISTRIBUIDORA DE GÁS EIRELI",
+		"cnpj": "23.183.147/0001-60",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 604, Conjunto 26, Lote 10 – CEP 72640-426, Recanto das Emas – DF",
+		"descricao": "ATOMARCO NOBRE DISTRIBUIDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "C J SOARES COMÉRCIO DE GÁS GLP",
+		"cnpj": "36.995.338/0001-78",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Eucalipto Quadra 403 Conjunto 08 Lote 04, CEP: 72630-350, Recanto das Emas – DF",
+		"descricao": "C J SOARES COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CAJU GÁS COMÉRCIO DE ÁGUA E GÁS EIRELI – ME",
+		"cnpj": "26.666.224/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Buritis Quadra 203 Lote 05, CEP: 72.610-320, Recanto das Emas – DF",
+		"descricao": "CAJU GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "EBS – COMERCIO VAREJISTA DE AGUA MINERAL E GLP EIRELI",
+		"cnpj": "09.213.124/0001-20",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 800, Conjunto 05, Lote 02 ADE, Recanto das Emas – DF",
+		"descricao": "EBS – COMERCIO VAREJISTA DE AGUA MINERAL E GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "E. F. AGUIAR",
+		"cnpj": "30.012.046/0001-91",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Ponte Alta, Quadra 605, s/n, Lote 11, Recanto das Emas – DF",
+		"descricao": "E. F. AGUIAR",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "F FERREIRA DE SOUSA ME",
+		"cnpj": "20.221.770/0001-71",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra Q 400, Conjunto 1, Lote 06, CEP: 72.625-001, Recanto das Emas – DF",
+		"descricao": "F FERREIRA DE SOUSA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FM DEPÓSITO E TRANSPORTE DE GÁS LTDA",
+		"cnpj": "22.728.700/0001-30",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 404 Lote 04 Comercial, AV Ponte Alta, Recanto das Emas – DF",
+		"descricao": "FM DEPÓSITO E TRANSPORTE DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FORT GÁS LTDA-ME",
+		"cnpj": "13.008.566/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "ADE 402, Conjunto 01, Lote 02, Recanto das Emas – DF",
+		"descricao": "FORT GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FORTE DEPÓSITO DE GÁS EIRELI",
+		"cnpj": "34.914.397/0001-49",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 04 Lote 01, Lote B, CEP: 72.669-000, Recanto das Emas – DF",
+		"descricao": "FORTE DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GIGANTE GÁS LTDA",
+		"cnpj": "13.414.823/0001-05",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 111, Comercio Local SN, Lote 07, Avenida Recanto das Emas, Recanto das Emas – DF",
+		"descricao": "GIGANTE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JOSÉ CARLOS DE MEDEIROS E CIA LTDA ME",
+		"cnpj": "04.585.789/0001-40",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 303, Avenida Recanto das Emas, Lote 04, Recanto das Emas – DF",
+		"descricao": "JOSÉ CARLOS DE MEDEIROS E CIA LTDA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "R & C COMERCIAL DE GÁS GLP LTDA ME",
+		"cnpj": "15.789.363/0001-25",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Vargem da Benção, Quadra 115, Lote 1, CEP nº 72.610-350, Recanto das Emas – DF",
+		"descricao": "R & C COMERCIAL DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "S & A COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "09.252.766/0001-38",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 406, Lote 22, Avenida dos Eucaliptos, CEP: 72.631-200, Recanto das Emas – DF",
+		"descricao": "S & A COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "COIMBRA GÁS EIRELI",
+		"cnpj": "22.276.629/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QC 04, conjunto 25, Lote 17, CEP: 71.882-175, Riacho Fundo II – DF",
+		"descricao": "COIMBRA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CREUSA DIAS CALDAS NEVES ME",
+		"cnpj": "05.125.453/0001-68",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QOF 07, Conjunto 01, Lote 04, Riacho Fundo – DF",
+		"descricao": "CREUSA DIAS CALDAS NEVES ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GÁS RIACHO 2 LTDA",
+		"cnpj": "37.943.655/0001-03",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QC 4, Conjunto 24, Lotes 11/12, Riacho Fundo II – DF",
+		"descricao": "GÁS RIACHO",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GOMES COMÉRCIO DE GÁS LTDA",
+		"cnpj": "35.436.502/0001-44",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CLN 5, Bloco K (Comércio), Nº 3 e 4, Riacho Fundo I – DF",
+		"descricao": "GOMES COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ACB COMERCIO DE GÁS LTDA",
+		"cnpj": "28.329.644/0001-47",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE, Conjunto 18, Lotes 01/02 – CEP: 73.314-718, Samambaia – DF",
+		"descricao": "ACB COMERCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DEPÓSITO DE GÁS CRISTO REI LTDA ME",
+		"cnpj": "03.957.074/0001-09",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QN 306, Conjunto 02, Lote 03, Samambaia – DF",
+		"descricao": "DEPÓSITO DE GÁS CRISTO REI",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DUBAY GÁS COMÉRCIO DE GÁS E ÁGUA MINERAL EIRELI",
+		"cnpj": "39.266.449/0001-31",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QN 423, Conjunto H, Lote 03, Loja 01, Bairro Samambaia Norte – CEP: 72.325-568, Samambaia – DF",
+		"descricao": "DUBAY GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "F & T GÁS EIRELI",
+		"cnpj": "05.367.312/0001-51",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE, Conjunto 09, Lote 11, Samambaia – DF",
+		"descricao": "F & T GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FRANPESO COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "01.993.515/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "ADE/Sul, Conjunto 12, Lote 07, CEP: 72.314-712, Samambaia – DF",
+		"descricao": "FRANPESO COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GF JR SAMAMBAIA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "31.627.438/0001-28",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 413, Conjunto A, Lote 06, Samambaia – DF",
+		"descricao": "GF JR SAMAMBAIA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J R G DOS SANTOS GÁS LTDA",
+		"cnpj": "15.285.622/0001-80",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QN 421 Conjunto A Lote 05, CEP nº 72.325-541, Samambaia – DF",
+		"descricao": "J R G DOS SANTOS GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J.F.C. DOS SANTOS DEPÓSITO DE GÁS LTDA",
+		"cnpj": "20.081.728/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 120 Conjunto 7 Lote 03, Bairro Samambaia Sul, CEP nº 72.304-507, Samambaia – DF",
+		"descricao": "J.F.C. DOS SANTOS DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JG COMÉRCIO DE GLP LTDA ME",
+		"cnpj": "17.846.758/0001-48",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QN 503, Conjunto 05, Lote 01, CEP nº 72.311-405, Samambaia – DF",
+		"descricao": "JG COMÉRCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JMQ COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "05.484.457/0001-32",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADES, Conjunto 07, Lote 20, Samambaia Sul – DF, CEP nº 72.314-707, Samambaia – DF",
+		"descricao": "JMQ COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LINO COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "11.199.138/0001-88",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 415, Conjunto G, Lote 04, Samambaia Norte, Samambaia – DF",
+		"descricao": "LINO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MARANATA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "28.634.655/0001-30",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE Conjunto 13, Lote 21, CEP 72.314-713, Samambaia – DF",
+		"descricao": "MARANATA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "PEREIRA ECO GÁS EIRELI",
+		"cnpj": "24.973.797/0001-71",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 127, Conjunto B, Lote 02, Samambaia – DF",
+		"descricao": "PEREIRA ECO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "RIBA COMERCIO VAREJISTA DE GÁS EIRELI",
+		"cnpj": "37.253.335/0001-21",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE, Conjunto 5, Lote 04, CEP: 72.314-705, Samambaia – DF",
+		"descricao": "RIBA COMERCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SAMAMGAS COMERCIO DE GLP LTDA",
+		"cnpj": "43.639.879/0001-29",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QI 616, Conjunto 1, Lote 21, Samambaia Norte – CEP: 72322-801, Samambaia – DF",
+		"descricao": "SAMAMGAS COMERCIO DE GLP",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SAN GÁS COMÉRCIO VAREJISTA DE GÁS EIRELI",
+		"cnpj": "23.218.459/0001-61",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Área ADE, Conjunta 5, Lote 02, Samambaia – DF",
+		"descricao": "SAN GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SANTOS & CAIXETA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "33.725.414/0001-37",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 421, Conjunto A, Lote 02, Samambaia – DF",
+		"descricao": "SANTOS & CAIXETA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TROPICAL COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "08.963.940/0001-98",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QN 429 Conjunto A Lote 08, Samambaia – DF",
+		"descricao": "TROPICAL COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TXT COMÉRCIO DE GÁS E AGUA LTDA ME",
+		"cnpj": "01.596.012/0001-93",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra ADE Sul Conjunto 7 Lote 05, Samambaia – DF",
+		"descricao": "TXT COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "F.A GÁS – DEPÓSITO E TRANSPORTE DE GÁS LTDA",
+		"cnpj": "04.221.890/0001-12",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Q Central 05 lote 02 Residencial Santos Dumont, CEP: 72.501-100, Santa Maria – DF",
+		"descricao": "F.A GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JT DA SILVA ME",
+		"cnpj": "01.679.163/0001-05",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CL 207, Lote D, nº 1, Santa Maria – DF",
+		"descricao": "JT DA SILVA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "L R COMERCIO DE GAS EIRELI",
+		"cnpj": "41.716.056/0001-24",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CL 307, Lote B4, Loja 02, Santa Maria – DF",
+		"descricao": "L R COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LIGEIRINHO COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "10.972.629/0001-57",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Setor Sul, Área complementar 104, Conjunto B, Lote 28 – Santa Maria – CEP 72.504-102, Santa Maria – DF",
+		"descricao": "LIGEIRINHO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "M DE F F NORONHA ME",
+		"cnpj": "03.337.553/0001-22",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QD CL 317, Lotes B, 04/05/06, Santa Maria – DF",
+		"descricao": "M DE F F NORONHA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SIRLIANE MARIA GOES DE PINHO PIRETTI ME",
+		"cnpj": "03.116.940/0001-39",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QI 14, Lote 51, Loja 01, Setor Industrial, Santa Maria – DF",
+		"descricao": "SIRLIANE MARIA GOES DE PINHO PIRETTI ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TRANSGAS TRANSPORTE E COMÉRCIO LTDA",
+		"cnpj": "13.483.637/0001-28",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra AC 104, Conjunto B, Lote 07, Bairro ST SUL, CEP nº 72.504-100, Santa Maria – DF",
+		"descricao": "TRANSGAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "UNIDOS DEPÓSITO TRANSPORTE DE GÁS EIRELI EPP",
+		"cnpj": "02.377.913/0001-57",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra AC 404, Conjunto C, Lote 04, Santa Maria – DF",
+		"descricao": "UNIDOS DEPÓSITO TRANSPORTE DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "VIP GÁS COMÉRCIO DE GAS EIRELI",
+		"cnpj": "10.407.798/0002-25",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 09 A, Lote 09, Galpão 01, Núcleo Rural, Santa Maria – DF",
+		"descricao": "VIP GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "W.F COMÉRCIO DE GAS LTDA-ME",
+		"cnpj": "23.707.745/0001-90",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra AC 419 Conjunto J S/N Lote 01, CEP: 72.549-450, Santa Maria – DF",
+		"descricao": "W.F COMÉRCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J S P COMERCIO DE GAS EIRELI",
+		"cnpj": "34.939.781/0001-04",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CL 210, Lote B, Loja -2, Santa Maria – DF",
+		"descricao": "J S P COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "B S DE SOUSA COMERCIO DE GÁS LTDA",
+		"cnpj": "02.492.044/0001-01",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Conjunto 06, Lote 13, Bonsucesso, São Sebastião – DF",
+		"descricao": "B S DE SOUSA COMERCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "BOTÂNICO COMERCIAL DE GÁS LTDA",
+		"cnpj": "38.138.492/0001-59",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Residencial Itaipu Quadra 81 Lote 26, CEP nº 71697-581, São Sebastião – DF",
+		"descricao": "BOTÂNICO COMERCIAL DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CC DOS SANTOS RODRIGUES COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "05.902.298/0001-49",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Conjunto 7, Lote 29, Bairro Bom Sucesso, São Sebastião – DF",
+		"descricao": "CC DOS SANTOS RODRIGUES COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "COMÉRCIO DE GÁS E ÁGUA EXPRESSO EIRELI",
+		"cnpj": "32.928.497/0001-07",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 2, Conjunto 2, Lote 04, São Bartolomeu – CEP: 71697-043, São Sebastião – DF",
+		"descricao": "COMÉRCIO DE GÁS E ÁGUA EXPRESSO",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "D. DA COSTA SILVA GÁS EIRELI",
+		"cnpj": "28.172.819/0001-55",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Comercial Morro da Cruz, Quadra 8, Lote 1, São Sebastião – DF",
+		"descricao": "D. DA COSTA SILVA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FJ COMERCIAL DE GAS LTDA",
+		"cnpj": "28.076.979/0001-09",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida comercial Nº 1295, S/N Residencial Capão Comprido, São Sebastião, CEP: 71699-899, São Sebastião – DF",
+		"descricao": "FJ COMERCIAL DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FP DE PAULO COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "07.183.149/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 202, Conjunto 9, Lote 30, Bairro Setor Residencial Oeste, São Sebastião – DF",
+		"descricao": "FP DE PAULO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GENIVAN DA COSTA RIBEIRO EIRELI",
+		"cnpj": "37.230.277/0001-10",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1, Conjunto 9 16, Bairro Bonsucesso – CEP: 71698-025, São Sebastião – DF",
+		"descricao": "GENIVAN DA COSTA RIBEIRO EIRELI",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "I E DA SILVA SOUZA COMÉRCIO DE GÁS",
+		"cnpj": "39.737.818/0001-27",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Residencial São Gabriel, Rua 01, Lotes 02/04, Bairro São Gabriel, São Sebastião – DF",
+		"descricao": "I E DA SILVA SOUZA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ITAIPU GÁS EIRELI ME",
+		"cnpj": "28.027.198/0001-16",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Residencial Itaipu Quadra 13, 27c, Bairro Residencial Itaipu, São Sebastião – DF",
+		"descricao": "ITAIPU GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "L V DE MESQUITA DISTRIBUIDORA DE GÁS",
+		"cnpj": "31.231.447/0001-03",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 1, Conjunto 12, Lote 24, Loja 01, Bairro Bonsucesso, São Sebastião – DF",
+		"descricao": "L V DE MESQUITA DISTRIBUIDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "NR DISTRIBUIDORA DE GÁS LTDA ME",
+		"cnpj": "07.619.434/0001-13",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 39, Lote 01, Loja 01, Bairro São José – CEP: 71.693-040, São Sebastião – DF",
+		"descricao": "NR DISTRIBUIDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "PRIMOS COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "12.978.410/0001-90",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 29, Lote 21D, Vila São José, São Sebastião, CEP: 71.693-030, São Sebastião – DF",
+		"descricao": "PRIMOS COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "RAIMUNDO MENEZES DE SOUZA ME",
+		"cnpj": "37.142.999/0001-13",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Conjunto 08, Lote 01, Bonsucesso, São Sebastião – DF",
+		"descricao": "RAIMUNDO MENEZES DE SOUZA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A A DE ALARCAO DEPOSITO DE GAS",
+		"cnpj": "12.364.549/0001-44",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia DF 150, KM 13, Quadra 17, Lote 102 Loja, Alto da Boa VIstra, Sobradinho II, CEP nº 73150-085, Sobradinho – DF",
+		"descricao": "A A DE ALARCAO DEPOSITO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A A XAVIER DEPÓSITO DE GÁS ME",
+		"cnpj": "11.159.512/0001-11",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Boa Sorte Conjunto A Lote 01, CEP: 73.005-970, Sobradinho – DF",
+		"descricao": "A A XAVIER DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A DE O RODRIGUES LIGEIRINHO GÁS",
+		"cnpj": "24.765.856/0001-16",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia DF-150, KM 04, Loja 0301, Chácara Solar Atalaia Mar, Bairro Grande Colorado, CEP nº 73.105-010, Sobradinho – DF",
+		"descricao": "A DE O RODRIGUES LIGEIRINHO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ADOLFINO FERREIRA DO NASCIMENTO EIRELI",
+		"cnpj": "07.902.784/0001-92",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Mini Chácaras, QMS 30, Lote 39, Sobradinho – DF",
+		"descricao": "ADOLFINO FERREIRA DO NASCIMENTO EIRELI",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ALÔ GÁS DISTRIBUIDORA LTDA ME",
+		"cnpj": "10.653.161/0001-38",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Rio Negro Modulo 03, Lote 01 e 02, Loja 02, Sobradinho – DF",
+		"descricao": "ALÔ GÁS DISTRIBUIDORA LTDA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CC SOARES E BRITO COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "16.417.227/0001-77",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Nova Colina II, Conjunto B, Lote 05, Sobradinho – DF",
+		"descricao": "CC SOARES E BRITO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "COLORADO GÁS LTDA ME",
+		"cnpj": "15.323.895/0001-72",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rodovia DF 150, KM 2,5, Sítio 40, Loja 03, Entrada do Grande Colorado, CEP: 73.105-010, Sobradinho – DF",
+		"descricao": "COLORADO GÁS LTDA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GASIL COMERCIO DE GAS E TRANSPORTE LTDA",
+		"cnpj": "04.429.520/0001-75",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QMS 55-A, Lote 01, Setor de Mansões de Sobradinho, Sobradinho – DF",
+		"descricao": "GASIL COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GELÉIA COMÉRCIO VAREJISTA DE GÁS EIRELI",
+		"cnpj": "32.334.470/0001-88",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QUADRA AR 5 CONJUNTO 10 16 – BAIRRO SETOR OESTE, Sobradinho II – DF",
+		"descricao": "GELÉIA COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GILDENY APARECIDO DE ALMEIDA ME",
+		"cnpj": "07.547.955/0001-02",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Central, Conjunto 16, Lote 06, CEP 73.062-816, Sobradinho II – DF",
+		"descricao": "GILDENY APARECIDO DE ALMEIDA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JOSÉ OMÉRIO BARBOSA GOMES – VENDA DE GAS (GLP)",
+		"cnpj": "33.546.944/0001-18",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Vila Nova Colina, Lote 29, Loja 01, Sobradinho – DF",
+		"descricao": "JOSÉ OMÉRIO BARBOSA GOMES – VENDA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MAYCON RODRIGUES PEREIRA ME",
+		"cnpj": "12.071.492/0001-95",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "RODOVIA DF 150, KM 13, QD 17, LOTE 4-A, LOJA 01, CEP 73.150-100, Sobradinho II – DF",
+		"descricao": "MAYCON RODRIGUES PEREIRA ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OLAVO FERREIRA DO NASCIMENTO ME",
+		"cnpj": "06.959.216/0001-65",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Vale das Acácias, Fazenda Sobradinho, Chácara Central, Loja 01 – CEP: 73.070-056, Sobradinho – DF",
+		"descricao": "OLAVO FERREIRA DO NASCIMENTO ME",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "PETRÓPOLIS ALFAMA COMÉRCIO DE GÁS LTDA",
+		"cnpj": "32.932.773/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Petrópolis Quadra 03 MD E Lote 01, CEP: 73017-015, Sobradinho – DF",
+		"descricao": "PETRÓPOLIS ALFAMA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "S B DISTRIBUIDORA DE GAS LTDA",
+		"cnpj": "05.327.050/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Avenida Central, Conjunto 05, Lote 09, Sobradinho/DF, CEP nº 73062-805, Sobradinho – DF",
+		"descricao": "S B DISTRIBUIDORA DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SPEED GÁS DISTIRBUIDORA DE GÁS LTDA",
+		"cnpj": "05.966.699/0001-62",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 10, Comércio Local 05, Loja 01 S/N, Sobradinho – DF",
+		"descricao": "SPEED GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TOP GÁS DF DISTRIBUIDORA, REVENDENDORA E TRANSPORTADORA DE GLP E ÁGUA MINERAL LTDA",
+		"cnpj": "30.892.504/0001-24",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 15, Lote Especial 03, Parte 01, Sobradinho – DF",
+		"descricao": "TOP GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "LONDE E LONDE COMERCIAL DE GAS LTDA ME",
+		"cnpj": "05.919.677/0001-41",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Condomínio Residencial RK Conjunto Antares Quadra Comercial Lote 22, Bairro Região Dos Lagos, Sobradinho – DF",
+		"descricao": "LONDE E LONDE COMERCIAL DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "A & F DEPÓSITO DE GÁS LTDA",
+		"cnpj": "30.842.203/0001-96",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 401, Conjunto E, Lote 02, Pôr do Sol – DF",
+		"descricao": "A & F DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "ANTÔNIO DO GÁS COMÉRCIO DE GLP LTDA",
+		"cnpj": "43.205.539/0001-90",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 05, Conjunto B, Lote 04, Sol Nascente – DF",
+		"descricao": "ANTÔNIO DO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JG COMÉRCIO VAREJISTA DE GÁS EIRELI-ME",
+		"cnpj": "25.453.339/0001-74",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 105A, Lote 05, 05, Setor Trecho III, Sol Nascente – DF",
+		"descricao": "JG COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MAC BRASIL COMÉRCIO VAREJISTA DE GÁS EIRELI",
+		"cnpj": "30.319.619/0001-24",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 89, Conjunto J, Lote 36, Sol Nascente – DF",
+		"descricao": "MAC BRASIL COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MARCÃO COMÉRCIO DE GÁS LTDA",
+		"cnpj": "28.191.513/0001-46",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 74, Conjunto A, Lote 01, – CEP: 72236-800, Sol Nascente – DF",
+		"descricao": "MARCÃO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MF COMERCIO DE GAS GLP LTDA",
+		"cnpj": "40.204.618/0001-98",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 05, Conjunto B, Lote 01, Condomínio Gênesis – CEP: 72.236-800, Sol Nascente – DF",
+		"descricao": "MF COMERCIO DE GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OSMANO HONORIO DE MEDEIROS",
+		"cnpj": "10.695.323/0001-09",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Setor SH, Quadra C, CH 128, Lote 2B – CEP: 72.220-040, Sol Nascente – DF",
+		"descricao": "OSMANO HONORIO DE MEDEIROS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SOUSA EUZENI EIRELI",
+		"cnpj": "30.814.940/0001-85",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Chácara 96A, Conjunto A, Lote 38 – CEP: 72236-800, Sol Nascente – DF",
+		"descricao": "SOUSA EUZENI EIRELI",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "BERIMBAL – DEPÓSITO E COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "09.080.921/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNL 21, Bloco J, Lote 14, Taguatinga – DF",
+		"descricao": "BERIMBAL – DEPÓSITO E COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DELMIVAN DE SOUSA COSTA COMÉRCIO DE GÁS",
+		"cnpj": "37.561.715/0001-23",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra Q1, Conjunto C, (SDE) 9, Setor de Desenvolvimento Econômico, Taguatinga – DF",
+		"descricao": "DELMIVAN DE SOUSA COSTA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "DISTRIBUIDORA DE GAS MARTINS LTDA ME",
+		"cnpj": "11.349.382/0001-80",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNM 36, Conjunto N – SN, Casa 32, CEP: 72.145-614, Taguatinga – DF",
+		"descricao": "DISTRIBUIDORA DE GAS MARTINS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GOLD COMÉRCIO DE GÁS LTDA",
+		"cnpj": "11.016.437/0001-30",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QS 7, Avenida Águas Claras, Lote 34, Taguatinga – DF",
+		"descricao": "GOLD COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "JAPA GÁS M NORTE LTDA – ME",
+		"cnpj": "24.691.734/0001-22",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNM 40, Conjunto G, Lote 29, Taguatinga – DF",
+		"descricao": "JAPA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MAIS GAS COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "37.333.134/0001-34",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNJ 10, Casa 05, SN, Taguatinga Norte, Taguatinga – DF",
+		"descricao": "MAIS GAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MONTALVAO COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "35.149.818/0001-55",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QI 14, Lote 51, Loja 01, Setor Industrial, Taguatinga – DF",
+		"descricao": "MONTALVAO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "NERY COMÉRCIO DE GÁS E ÁGUA MINERAL EIRELI",
+		"cnpj": "33.951.296/0001-85",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QSB 6 Lote 02, Taguatinga Sul, CEP nº 72.015-560, Taguatinga – DF",
+		"descricao": "NERY COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "OURO GÁS QNL COMÉRCIO DE GLP LTDA",
+		"cnpj": "32.654.611/0001-40",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra Qnl 14, Conjunto E, Lote 01, Taguatinga – DF",
+		"descricao": "OURO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "QNL JAPA GÁS LTDA",
+		"cnpj": "29.594.370/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNL 30, via 29, SN, Lote 02, CEP nº 72.162-329, Taguatinga – DF",
+		"descricao": "QNL JAPA GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SMART COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "31.290.698/0001-50",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNF 2, Lote 10, CEP nº 72.125-520, Taguatinga – DF",
+		"descricao": "SMART COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "SRB MAECAVA DEPÓSITO DE GÁS EIRELI",
+		"cnpj": "27.613.921/0001-86",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QSF 11, Lote nº 302, CEP: 72.025-61, Taguatinga – DF",
+		"descricao": "SRB MAECAVA DEPÓSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "TEIXEIRA COMÉRCIO DE GÁS LTDA ME",
+		"cnpj": "10.709.648/0001-95",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra CND 01 lote 04, Taguatinga – DF",
+		"descricao": "TEIXEIRA COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "V C M MARQUES COMÉRCIO DE GÁS LTDA",
+		"cnpj": "28.475.633/0001-75",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNG 1, Lote 22, Taguatinga – DF",
+		"descricao": "V C M MARQUES COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "V R SILVA DISTRIBUIDORA DE GÁS",
+		"cnpj": "38.062.767/0001-18",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QNL 16 via 29 lote 15, CEP 72160-62, Taguatinga – DF",
+		"descricao": "V R SILVA DISTRIBUIDORA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "VL COMÉRCIO DE GÁS E BEBIDAS EIRELI",
+		"cnpj": "13.163.616/0001-25",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra QNL 10, Conjunto J, Lote 17, Loja 01, Taguatinga – DF",
+		"descricao": "VL COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "13 DE MAIO COMÉRCIO DE GÁS EIRELI ME",
+		"cnpj": "27.993.988/0001-93",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "QSD 13, Lote 15 – CEP: 72.020-130, Taguatinga – DF",
+		"descricao": "13 DE MAIO COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "PREMIUM COMÉRCIO VAREJISTA DE GÁS LTDA",
+		"cnpj": "36.827.067/0001-41",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Quadra 5, Conjunto A, Lote 25, SN, Varjão – DF",
+		"descricao": "PREMIUM COMÉRCIO VAREJISTA DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "CARVALHO DEPOSITO DE GÁS LTDA",
+		"cnpj": "39.757.138/0001-75",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 10, Chácara 179, Lote 49, Vicente Pires – DF, CEP nº 72.007-395, Vicente Pires – DF",
+		"descricao": "CARVALHO DEPOSITO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "COMERCIAL ESTRELA DO GÁS LTDA",
+		"cnpj": "12.760.702/0001-52",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 8, Chácara 89, Lote 01, Vila São José – CEP: 72.003-300, Vicente Pires – DF",
+		"descricao": "COMERCIAL ESTRELA DO GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "FOGAS COMÉRCIO DE GÁS E ÁGUA LTDA",
+		"cnpj": "43.001.467/0001-69",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 10, Chácara 174, Lote 402, Vila São José, Vicente Pires – DF",
+		"descricao": "FOGAS COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GÁS FAMÍLIA EIRELI",
+		"cnpj": "30.747.295/0001-25",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 3, Chácara 82, Lote 10A – CEP: 72005-755, Vicente Pires – DF",
+		"descricao": "GÁS FAMÍLIA",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "GENTIL GÁS COMÉRCIO E DISTRIBUIÇÃO EIRELI",
+		"cnpj": "27.358.645/0001-57",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 10, Chácara 411, Lote 03, Parte A, S/N, Vila São José – CEP: 72.003-005, Vicente Pires – DF",
+		"descricao": "GENTIL GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "HOMEGAS CARVALHO COMÉRCIO DE GÁS EIRELI",
+		"cnpj": "37.758.996/0001-09",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 8, Chácara 182 SN, Loja 01, Lote 09, Vicente Pires – DF",
+		"descricao": "HOMEGAS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "J G B DE OLIVEIRA DA SILVA DEPÓSITO DE GÁS",
+		"cnpj": "40.111.632/0001-47",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 3C Chácara 28 Lote 29, Vicente Pires – DF",
+		"descricao": "J G B",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	},
+	{
+		"razaoSocial": "MJSS COMÉRCIO DE GÁS GLP EIRELI",
+		"cnpj": "39.156.309/0001-00",
+		"dataDeRegistro": "26.01.2021",
+		"endereco": "Rua 8, Chácara 189, Lote 01, Setor Habitacional Vicente Pires – DF, CEP nº 72.006-780, Vicente Pires – DF",
+		"descricao": "MJSS COMÉRCIO DE GÁS",
+		"tipo": "revenda",
+		"fornecedorID": ""
+	}
+]

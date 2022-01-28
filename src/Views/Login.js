@@ -10,7 +10,7 @@ import {
     Button,
     Alert
 } from 'react-native';
-import Logomarca from '../assets/img/logomarca.jpg';
+import Logomarca from '../assets/img/logomarca.png';
 import { GraphQLQuery, StoreData } from '../util';
 import { Actions } from 'react-native-router-flux';
 import Spinner from 'react-native-loading-spinner-overlay';
@@ -30,9 +30,11 @@ export default function Login() {
     async function handleLogin(e) {
         setToggleIndicator(true);
 
-        await GraphQLQuery(`login(email:"${email}" password:"${password}")`).then((query) => {
+        await GraphQLQuery(`login(email:"${email}", password:"${password}")`).then((query) => {
         
-            var userToken = query.data;
+            let userToken = query.data.login;
+
+            console.log('userToken:', userToken);
         
             if (userToken) {
                 StoreData('userToken', userToken);
@@ -62,19 +64,21 @@ export default function Login() {
                         style={styles.input}
                         onChangeText={setEmail}
                         placeholder="E-mail"
+                        placeholderTextColor={"#FFF"}
                         value={email}
                     />
                     <TextInput
                         style={styles.input}
                         onChangeText={setPassword}
+                        placeholderTextColor={"#FFF"}
                         value={password}
                         placeholder="Senha"
                     />
                     <View style={styles.button}>
-                        <Button color={'#2C332C'} title='ENTRAR' onPress={() => handleLogin()}/>
+                        <Button color={'#fe9c00'} title='ENTRAR' onPress={() => handleLogin()}/>
                     </View>
                     <View style={styles.button}>
-                        <Button color={'#2C332C'} title='Novo Usuário' onPress={() => Actions.adicionarusuario()}/>
+                        <Button color={'#fe9c00'} title='Novo Usuário' onPress={() => Actions.adicionarusuario()}/>
                     </View>
                     <Text style={styles.version}>Versão: 1.0 </Text>
                     {toggleIndicator && 
@@ -93,13 +97,14 @@ export default function Login() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#FFF'
+        backgroundColor: '#0061ae'
     },
     input: {
-        color: '#2C332C',
+        color: '#FFF',
         width: '80%',
         alignSelf: 'center',
         margin: 5,
+        borderColor: '#FFF',
         borderRadius: 8,
         borderWidth: 0.5,
     },
@@ -111,13 +116,14 @@ const styles = StyleSheet.create({
     logo: {
         marginTop: '20%',
         alignSelf: 'center',
-        width: 300 / 2,
-        height: 386 / 2
+        width: 400 / 2,
+        height: 515 / 2
     },
     version: {
         alignSelf: 'center',
+        color: '#FFF',
     },
     spinnerTextStyle: {
-        color: '#000',
+        color: '#FFF',
     }
 });

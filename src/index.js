@@ -25,7 +25,7 @@ function App(){
     <Fragment>
       <Router>
           <Scene key="root" headerLayoutPreset={'center'}>
-            <Tabs key="tabBar" lazy hideNavBar activeBackgroundColor='#2C332C' activeTintColor='#FFF' inactiveTintColor='#FFF' labelStyle={{fontSize: 12}} tabBarStyle={styles.tabBar} navigationBarStyle={styles.tabBar}>
+            <Tabs key="tabBar" lazy hideNavBar activeBackgroundColor='#0061ae' activeTintColor='#FFF' inactiveTintColor='#FFF' labelStyle={{fontSize: 12}} tabBarStyle={styles.tabBar} navigationBarStyle={styles.tabBar}>
               <Scene
                 key="fornecedores"
                 title="Fornecedores"
@@ -39,7 +39,7 @@ function App(){
                 )}
               />            
             </Tabs>
-              <Scene key="login"
+              <Scene key="login" 
                 component={Login}
                 hideNavBar
               />
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     height: 232 / 5
   },
   tabBar:{
-    backgroundColor: "#2C332C",
+    backgroundColor: "#0061ae",
   },
   fornecedoresTabBar: {
     alignSelf: 'center',
